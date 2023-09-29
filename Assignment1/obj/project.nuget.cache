@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wni0irKR7m6H+tvVlIwLQ3J10/J/NcKIUfs0pxACaI6y69FoYtCK50ER3GSnrWm8h9VY3QDqlX0iWgDvwuc22Q==",
+  "success": true,
+  "projectFilePath": "D:\\UIT\\HK5\\Ngôn ngữ lập trình C#\\Assignment1\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vandu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\vandu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\vandu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\vandu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

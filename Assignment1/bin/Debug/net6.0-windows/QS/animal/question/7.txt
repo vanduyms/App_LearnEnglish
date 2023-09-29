@@ -1,0 +1,8 @@
+QS\animal\image\duck.jpg
+duck
+QS\animal\image\bee.jpg
+bee
+QS\animal\image\frog.jpg
+frog
+QS\animal\image\crab.jpg
+crab

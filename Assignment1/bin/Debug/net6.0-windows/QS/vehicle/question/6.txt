@@ -1,0 +1,2 @@
+QS\vehicle\image\ship.jpg
+ship

@@ -1,0 +1,4 @@
+QS\vehicle\image\bicycle.jpg
+bicycle
+QS\vehicle\image\boat.jpg
+boat

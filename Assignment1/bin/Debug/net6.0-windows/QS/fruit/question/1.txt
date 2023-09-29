@@ -1,0 +1,4 @@
+QS\fruit\image\orange.jpg
+orange
+QS\fruit\image\apple.jpg
+apple

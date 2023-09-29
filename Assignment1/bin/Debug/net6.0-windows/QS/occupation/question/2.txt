@@ -1,0 +1,4 @@
+QS\occupation\image\fireman.jpg
+fireman
+QS\occupation\image\teacher.jpg
+teacher

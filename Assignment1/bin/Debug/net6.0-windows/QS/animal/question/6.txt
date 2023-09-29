@@ -1,0 +1,8 @@
+QS\animal\image\blue-whale.jpg
+whale
+QS\animal\image\dolphin.jpg
+dolphin
+QS\animal\image\turtle.jpg
+turtle
+QS\animal\image\parrot.jpg
+parrot

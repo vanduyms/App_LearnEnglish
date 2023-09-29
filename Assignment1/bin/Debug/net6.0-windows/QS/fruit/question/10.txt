@@ -1,0 +1,4 @@
+QS\fruit\image\mango.jpg
+mango
+QS\fruit\image\apricot.jpg
+apricot

@@ -1,0 +1,4 @@
+QS\occupation\image\police.jpg
+police
+QS\occupation\image\nurse.jpg
+nurse

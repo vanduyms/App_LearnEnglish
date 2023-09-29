@@ -1,0 +1,10 @@
+QS\animal\image\crocodile.jpg
+crocodile
+QS\animal\image\bear.jpg
+bear
+QS\animal\image\fish.jpg
+fish
+QS\animal\image\zebra.jpg
+zebra
+QS\animal\image\rabbit.jpg
+rabbit

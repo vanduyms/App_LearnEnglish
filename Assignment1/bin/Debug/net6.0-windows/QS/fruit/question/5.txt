@@ -1,0 +1,4 @@
+QS\fruit\image\peach.jpg
+peach
+QS\fruit\image\guava.jpg
+guava

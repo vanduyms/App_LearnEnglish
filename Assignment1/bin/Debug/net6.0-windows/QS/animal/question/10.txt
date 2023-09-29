@@ -1,0 +1,8 @@
+QS\animal\image\snail.jpg
+snail
+QS\animal\image\bat.jpg
+bat
+QS\animal\image\hen.jpg
+hen
+QS\animal\image\rooster.jpg
+rooster

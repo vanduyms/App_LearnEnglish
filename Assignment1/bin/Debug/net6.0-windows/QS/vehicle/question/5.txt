@@ -1,0 +1,4 @@
+QS\vehicle\image\sccoter.jpg
+scooter
+QS\vehicle\image\tractor.jpg
+tractor

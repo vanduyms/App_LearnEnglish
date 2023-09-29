@@ -1,0 +1,4 @@
+QS\occupation\image\farmer.jpg
+farmer
+QS\occupation\image\driver.jpg
+driver.jpg

@@ -1,0 +1,10 @@
+QS\animal\image\lion.jpg
+lion
+QS\animal\image\koala.jpg
+koala
+QS\animal\image\monkey.jpg
+monkey
+QS\animal\image\cow.jpg
+cow
+QS\animal\image\sheep.jpg
+sheep

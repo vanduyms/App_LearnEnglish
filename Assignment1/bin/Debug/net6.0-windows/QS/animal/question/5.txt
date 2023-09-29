@@ -1,0 +1,10 @@
+QS\animal\image\snake.jpg
+snake
+QS\animal\image\pig.jpg
+pig
+QS\animal\image\ant.jpg
+ant
+QS\animal\image\wolf.jpg
+wolf
+QS\animal\image\shark.jpg
+shark

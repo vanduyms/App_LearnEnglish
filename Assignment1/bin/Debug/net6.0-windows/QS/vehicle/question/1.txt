@@ -1,0 +1,4 @@
+QS\vehicle\image\car.jpg
+car
+QS\vehicle\image\truck.jpg
+truck

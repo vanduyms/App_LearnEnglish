@@ -1,0 +1,4 @@
+QS\fruit\image\watermelon.jpg
+watermelon
+QS\fruit\image\pineapple.jpg
+pineapple

@@ -1,0 +1,4 @@
+QS\fruit\image\cherry.jpg
+cherry
+QS\fruit\image\raspberry.jpg
+raspberry

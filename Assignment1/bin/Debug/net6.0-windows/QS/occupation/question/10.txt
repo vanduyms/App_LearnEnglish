@@ -1,0 +1,4 @@
+QS\occupation\image\astronaut.jpg
+astronaut
+QS\occupation\image\bartender.jpg
+bartender

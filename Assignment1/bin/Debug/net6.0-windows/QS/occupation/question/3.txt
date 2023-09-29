@@ -1,0 +1,4 @@
+QS\occupation\image\soldier.jpg
+soldier
+QS\occupation\image\chelf.jpg
+chelf

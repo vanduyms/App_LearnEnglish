@@ -1,0 +1,8 @@
+QS\animal\image\jellyfish.jpg
+jellyfish
+QS\animal\image\woodpecker.jpg
+woodpecker
+QS\animal\image\camel.jpg
+camel
+QS\animal\image\gorilla.jpg
+gorilla

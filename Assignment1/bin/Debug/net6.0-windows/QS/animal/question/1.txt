@@ -1,0 +1,8 @@
+QS\animal\image\elephant.jpg
+elephant
+QS\animal\image\horse.jpg
+horse
+QS\animal\image\buffalo.jpg
+buffalo
+QS\animal\image\dog.jpg
+dog

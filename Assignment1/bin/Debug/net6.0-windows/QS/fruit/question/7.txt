@@ -1,0 +1,4 @@
+QS\fruit\image\kiwi.jpg
+kiwi
+QS\fruit\image\pear.jpg
+pear

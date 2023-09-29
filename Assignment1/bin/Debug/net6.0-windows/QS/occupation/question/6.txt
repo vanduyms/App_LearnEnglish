@@ -1,0 +1,4 @@
+QS\occupation\image\footballer.jpg
+footballer
+QS\occupation\image\waiter.jpg
+waiter

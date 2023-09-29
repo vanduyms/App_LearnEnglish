@@ -1,0 +1,8 @@
+QS\animal\image\goat.jpg
+goat
+QS\animal\image\hippopotamus.jpg
+hippopotamus
+QS\animal\image\giraffe.jpg
+giraffe
+QS\animal\image\wolf.jpg
+wolf

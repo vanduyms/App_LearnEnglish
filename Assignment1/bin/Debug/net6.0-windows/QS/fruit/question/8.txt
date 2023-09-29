@@ -1,0 +1,4 @@
+QS\fruit\image\plum.jpg
+plum
+QS\fruit\image\lemon.jpg
+lemon

@@ -1,0 +1,4 @@
+QS\occupation\image\musician.jpg
+musician
+QS\occupation\image\flight_attendant.jpg
+flight attendant

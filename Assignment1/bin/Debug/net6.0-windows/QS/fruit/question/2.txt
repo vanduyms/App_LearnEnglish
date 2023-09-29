@@ -1,0 +1,6 @@
+QS\fruit\image\banana.jpg
+banana
+QS\fruit\image\tomato.jpg
+tomato
+QS\fruit\image\blueberry.jpg
+blueberry

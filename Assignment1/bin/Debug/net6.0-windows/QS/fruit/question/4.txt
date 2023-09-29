@@ -1,0 +1,4 @@
+QS\fruit\image\pomegranate.jpg
+pomegranate
+QS\fruit\image\blackberry.jpg
+blackberry

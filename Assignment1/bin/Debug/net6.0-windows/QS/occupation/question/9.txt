@@ -1,0 +1,4 @@
+QS\occupation\image\pilot.jpg
+pilot
+QS\occupation\image\postman.jpg
+postman

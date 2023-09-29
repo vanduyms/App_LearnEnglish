@@ -1,0 +1,8 @@
+QS\animal\image\tiger.jpg
+tiger
+QS\animal\image\mouse.jpg
+mouse
+QS\animal\image\kangaroo.jpg
+kangaroo
+QS\animal\image\panda.jpg
+panda
